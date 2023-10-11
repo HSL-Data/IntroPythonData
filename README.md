@@ -9,7 +9,7 @@ This workshop is provided by the Research and Data Services group in the Claude 
 
 
 ## Getting the files for today
-- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPythonData)
+- Go here: [https://github.com/HSL-Data/IntroPythonData](https://github.com/HSL-Data/IntroPythonData)
 - Click "Code" (green button in upper right corner)
 - Click "Download Zip"
 - Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
